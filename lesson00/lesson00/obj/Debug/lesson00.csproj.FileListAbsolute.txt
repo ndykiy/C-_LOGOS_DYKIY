@@ -1,0 +1,6 @@
+D:\DYKIY_NAZARIY\C-_LOGOS_DYKIY\lesson00\lesson00\bin\Debug\lesson00.exe.config
+D:\DYKIY_NAZARIY\C-_LOGOS_DYKIY\lesson00\lesson00\bin\Debug\lesson00.exe
+D:\DYKIY_NAZARIY\C-_LOGOS_DYKIY\lesson00\lesson00\bin\Debug\lesson00.pdb
+D:\DYKIY_NAZARIY\C-_LOGOS_DYKIY\lesson00\lesson00\obj\Debug\lesson00.csprojResolveAssemblyReference.cache
+D:\DYKIY_NAZARIY\C-_LOGOS_DYKIY\lesson00\lesson00\obj\Debug\lesson00.exe
+D:\DYKIY_NAZARIY\C-_LOGOS_DYKIY\lesson00\lesson00\obj\Debug\lesson00.pdb
