@@ -1,0 +1,6 @@
+E:\C-_LOGOS_DYKIY-master\C-_LOGOS_DYKIY-master\HW_2_LOGOS\HW_2_LOGOS\bin\Debug\HW_2_LOGOS.exe.config
+E:\C-_LOGOS_DYKIY-master\C-_LOGOS_DYKIY-master\HW_2_LOGOS\HW_2_LOGOS\bin\Debug\HW_2_LOGOS.exe
+E:\C-_LOGOS_DYKIY-master\C-_LOGOS_DYKIY-master\HW_2_LOGOS\HW_2_LOGOS\bin\Debug\HW_2_LOGOS.pdb
+E:\C-_LOGOS_DYKIY-master\C-_LOGOS_DYKIY-master\HW_2_LOGOS\HW_2_LOGOS\obj\Debug\HW_2_LOGOS.csprojResolveAssemblyReference.cache
+E:\C-_LOGOS_DYKIY-master\C-_LOGOS_DYKIY-master\HW_2_LOGOS\HW_2_LOGOS\obj\Debug\HW_2_LOGOS.exe
+E:\C-_LOGOS_DYKIY-master\C-_LOGOS_DYKIY-master\HW_2_LOGOS\HW_2_LOGOS\obj\Debug\HW_2_LOGOS.pdb
