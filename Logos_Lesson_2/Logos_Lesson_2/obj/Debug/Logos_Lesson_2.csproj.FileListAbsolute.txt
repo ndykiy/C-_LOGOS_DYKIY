@@ -1,0 +1,12 @@
+c:\users\study\documents\visual studio 2015\Projects\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.exe.config
+c:\users\study\documents\visual studio 2015\Projects\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.exe
+c:\users\study\documents\visual studio 2015\Projects\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.pdb
+c:\users\study\documents\visual studio 2015\Projects\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.csprojResolveAssemblyReference.cache
+c:\users\study\documents\visual studio 2015\Projects\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.exe
+c:\users\study\documents\visual studio 2015\Projects\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.pdb
+C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.exe.config
+C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.exe
+C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.pdb
+C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.exe
+C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.pdb
+C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.csprojResolveAssemblyReference.cache
