@@ -10,3 +10,9 @@ C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Less
 C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.exe
 C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.pdb
 C:\Users\Study\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.csprojResolveAssemblyReference.cache
+C:\Users\Study\C-_LOGOS_DYKIY\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.exe.config
+C:\Users\Study\C-_LOGOS_DYKIY\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.exe
+C:\Users\Study\C-_LOGOS_DYKIY\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.pdb
+C:\Users\Study\C-_LOGOS_DYKIY\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.exe
+C:\Users\Study\C-_LOGOS_DYKIY\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\bin\Debug\Logos_Lesson_2.pdb
+C:\Users\Study\C-_LOGOS_DYKIY\C-_LOGOS_DYKIY\Logos_Lesson_2\Logos_Lesson_2\obj\Debug\Logos_Lesson_2.csprojResolveAssemblyReference.cache
