@@ -40,7 +40,7 @@ namespace LOGOS_LESSON_METHODS
             {
                 return x * x * x * x - 79;
             }
-            */
+            
 
             Console.WriteLine("Enter quantity of array");
             int nQ = int.Parse(Console.ReadLine());
@@ -64,6 +64,32 @@ namespace LOGOS_LESSON_METHODS
                 nSum = nSum + A[i];
             }
             return nSum;
+            */
+
+            Console.WriteLine("Enter quantity of array");
+            int nQ = int.Parse(Console.ReadLine());
+            int[] nArr = new int[nQ];
+            
+                nArr = NewArray(nQ);
+            for(int i=0;i<nQ;i++)
+            {
+                Console.Write(" {0}", nArr[i]);
+            }
+
+
+        }
+
+        static int[] NewArray( int nQuant)
+        {
+           
+            int[] nA = new int[nQuant];
+
+            for (int i = 0; i < nQuant; i++)
+            {
+                nA[i] = i;
+               // Console.Write(" {0}",nA[i]);
+            }
+            return nA;
         }
 
     }
