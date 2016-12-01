@@ -73,20 +73,14 @@ namespace LOGOS_TEST
 
         static void Question(string sQuestion,params string[] sAnswer)
         {
-           
-           
+          
             Console.WriteLine(sQuestion);
             for (int i=0;i<3;i++)
             {
                 Console.WriteLine((i+1)+sAnswer[i]);
                 
             }
-
             
-
-
-
-           
         }
 
     }
