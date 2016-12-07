@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW_LOGOS_CLASS_PERSON
+namespace HW_LOGOS_ENCAPSULATION_RUNNER
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Person roman = new Person("roman");
-            roman.Print();
-
         }
     }
 }
