@@ -28,9 +28,9 @@ namespace LOGOS_LESSON_ENCAPSULATION
             */
 
 
-            CustomFloat number = new CustomFloat(17,15.37f);
-            //number.FirstPart = 17;
-            //number.SecondPart = 0.25f;
+            CustomFloat number = new CustomFloat();
+            number.FirstPart = 5;
+            number.SecondPart = 0.7f;
             number.Print();
 
         }

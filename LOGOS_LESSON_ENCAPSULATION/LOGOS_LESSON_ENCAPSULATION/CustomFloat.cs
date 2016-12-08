@@ -12,7 +12,15 @@ namespace LOGOS_LESSON_ENCAPSULATION
         public float SecondPart;
         public float Full;
 
-        public CustomFloat(int part1,float part2)
+        const float p = 3.14159f;
+        public readonly float numOfNumbers = p;
+
+        public CustomFloat(float num)
+        {
+            numOfNumbers = num;
+        }
+
+      /*  public CustomFloat(int part1,float part2)
         {
             FirstPart = part1;
             SecondPart = part2;
@@ -28,7 +36,7 @@ namespace LOGOS_LESSON_ENCAPSULATION
 
             full = (float)FirstPart + SecondPart;
         }
-
+        */
         public int firstPart
         {
             set
@@ -41,11 +49,11 @@ namespace LOGOS_LESSON_ENCAPSULATION
         {
             set
             {
-                if (Math.Abs(value) > 1)
+                if (Math.Abs(value) < 1f)
                 {
-                    secondPart = (float)Full-(float)FirstPart;
+                    secondPart = value;
                 }
-                else secondPart = value;
+                else secondPart = 0f;
             }
         }
 
