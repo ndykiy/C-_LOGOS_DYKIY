@@ -19,7 +19,7 @@ namespace LOGOS_LESSON_INHERITATION
             area = mArea;
             numOfRooms = mNumOfRooms;
             location = mLocation;
-            price = mPrice-mPrice%1000;
+            price = mPrice;
         }
 
         public float Area
@@ -58,7 +58,7 @@ namespace LOGOS_LESSON_INHERITATION
             }
         }
 
-        public int mPrice
+        public int Price
         {
             get
             {
@@ -66,7 +66,7 @@ namespace LOGOS_LESSON_INHERITATION
             }
             set
             {
-                mPrice = value;
+                Price = value;
             }
         }
 

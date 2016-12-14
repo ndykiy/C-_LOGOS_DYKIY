@@ -11,29 +11,43 @@ namespace LOGOS_LESSON_INHERITATION
 
         int k;
 
-        public HotelRoom(int Price,int NumOfPlaces, float mArea,int mNumOfRooms,string mLocation):base( mArea,  mNumOfRooms,  mLocation, Price)
+        public HotelRoom(int mPrice, float mArea, int mNumOfRooms, string mLocation, int mNumOfPlaces)
+            : base(mArea, mNumOfRooms, mLocation, mPrice)
         {
-            PricePerPlace = Price/NumOfPlaces;
+            k = mNumOfPlaces;
         }
 
-        public new int Price { get; set; }
-  
-        public int NumOfPlaces   {  get;set;}
+        public new int Price
+        {
+            get
+            {
+                return price;
+            }
+        }
 
-        public int PricePerPlace { get; set; }
-        /* {
+        public int NumOfPlaces
+        {
+            get
+            {
+                return k;
+            }
+            set
+            {
+                k = value;
+            }
+        }
+        public int PricePerPlace
+         {
              get
              {
-                 return k;
+                 return Price / NumOfPlaces;
              }
-             set
-             {
-               k = value;
-             }
+          
          }
-         */
+         
         public void PrintHotelRoom()
         {
+            
             Console.WriteLine("Hotel Room\nArea {0}\nnumber of rooms{1}\nlocation {2}\nprice {3}\nnum of places {4}\nprice per place {5}", area, numOfRooms, location, Price, NumOfPlaces,PricePerPlace );
 
         }

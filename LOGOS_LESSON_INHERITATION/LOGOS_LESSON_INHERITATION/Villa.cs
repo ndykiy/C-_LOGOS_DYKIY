@@ -12,7 +12,8 @@ namespace LOGOS_LESSON_INHERITATION
         public bool hasFountain;
 
 
-        public Villa(int mNumOfBaths,bool mHasFountain,float mArea,int mNumOfRooms,string mLocation,int mPrice):base( mArea,  mNumOfRooms,  mLocation,mPrice)
+        public Villa(int mNumOfBaths,bool mHasFountain,float mArea,int mNumOfRooms,string mLocation,int mPrice)
+            :base( mArea,  mNumOfRooms,  mLocation,mPrice)
         {
             numOfBaths = mNumOfBaths;
             hasFountain = mHasFountain;

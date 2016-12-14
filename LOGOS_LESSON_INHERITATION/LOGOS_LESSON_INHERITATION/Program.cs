@@ -32,7 +32,7 @@ namespace LOGOS_LESSON_INHERITATION
 
     */
 
-            HotelRoom b123=new HotelRoom(120,4,120,3,"italy");
+            HotelRoom b123 = new HotelRoom(120,120.4f,4,"rwfvbw",4);
             b123.PrintHotelRoom();
         }
     }
