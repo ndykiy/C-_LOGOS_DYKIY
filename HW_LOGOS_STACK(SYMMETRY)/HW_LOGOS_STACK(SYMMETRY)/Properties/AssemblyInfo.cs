@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Lab5")]
+[assembly: AssemblyTitle("HW_LOGOS_STACK(SYMMETRY)")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lab5")]
+[assembly: AssemblyProduct("HW_LOGOS_STACK(SYMMETRY)")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("f93c82ce-0146-443f-ae3b-a7374201dc04")]
+[assembly: Guid("fa1fc7e3-d523-4fc5-80f2-e7393d282578")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
